@@ -1,5 +1,5 @@
 # Variables: Mastery Check 2 (Starter Files)
 
-> Please take a minute or two to read the instructions.
+> Please take a minute or two to read the markdown (.md) directions.
 >
 > Thank you.
