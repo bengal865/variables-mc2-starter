@@ -35,7 +35,7 @@ Write a script that:
 - uses two string variables to tell me which two vehicles you test drove yesterday at the used car dealership, e.g., Chevrolet, Nissan, Ford, etc.
 - uses a third variable to tell me how much of a down payment you made on the vehicle you decided to buy
     - Assign a float to your down payment variable (a float is a number with a decimal point)
-- Use an *f-string* to build your output
+- Use an [f-string](https://www.programiz.com/python-programming/string-interpolation#:~:text=f%2Dstrings,Python%20expressions%20inside%20string%20constants.) to build your output
 - Include a dollar sign (**$**) in front of the number representing your down payment
  
 ## Sample Output
